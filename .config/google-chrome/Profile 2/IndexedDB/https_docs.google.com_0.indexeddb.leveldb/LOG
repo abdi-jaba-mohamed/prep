@@ -1,0 +1,6 @@
+2021/11/29-20:56:22.660 b2e Creating DB /home/abdijabar/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2021/11/29-20:56:22.665 b2e Reusing MANIFEST /home/abdijabar/.config/google-chrome/Profile 2/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-20:58:41.818 b81 Level-0 table #5: started
+2021/11/29-20:58:41.821 b81 Level-0 table #5: 8398 bytes OK
+2021/11/29-20:58:41.822 b81 Delete type=0 #3
+2021/11/29-20:58:41.823 b81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

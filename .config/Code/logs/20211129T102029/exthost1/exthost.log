@@ -1,0 +1,33 @@
+[2021-11-29 10:20:31.777] [exthost] [info] Extension host with pid 3873 started
+[2021-11-29 10:20:31.777] [exthost] [info] Skipping acquiring lock for /home/abdijabar/.config/Code/User/workspaceStorage/b15ea218e9129fa72ace5d81eaeeab2b.
+[2021-11-29 10:20:32.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-29 10:20:32.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 10:20:32.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 10:20:32.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 10:20:32.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 10:20:32.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 10:20:32.481] [exthost] [info] Eager extensions activated
+[2021-11-29 10:20:32.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 10:20:32.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-29 10:20:34.309] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2021-11-29 10:20:53.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:53.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:53.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:56.438] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-29 10:20:56.980] [exthost] [info] Extension host with pid 3976 started
+[2021-11-29 10:20:56.980] [exthost] [info] Skipping acquiring lock for /home/abdijabar/.config/Code/User/workspaceStorage/b15ea218e9129fa72ace5d81eaeeab2b.
+[2021-11-29 10:20:57.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 10:20:57.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-29 10:20:57.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-29 10:20:57.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-29 10:20:57.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:57.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:57.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-29 10:20:57.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-29 10:20:57.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-29 10:20:57.114] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-11-29 10:20:57.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-29 10:20:57.443] [exthost] [info] Extension host with pid 3873 exiting with code 0
+[2021-11-29 10:20:57.514] [exthost] [info] Eager extensions activated
+[2021-11-29 10:20:57.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-29 13:11:15.503] [exthost] [info] extension host terminating: renderer closed the socket

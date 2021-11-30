@@ -1,0 +1,14 @@
+[2021-11-30 11:11:39.514] [exthost] [info] Extension host with pid 4802 started
+[2021-11-30 11:11:39.514] [exthost] [info] Skipping acquiring lock for /home/abdijabar/.config/Code/User/workspaceStorage/3bd82e4342e6fec16822a5516f503fdd.
+[2021-11-30 11:11:39.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-30 11:11:39.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-30 11:11:39.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-30 11:11:39.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-30 11:11:39.804] [exthost] [info] Eager extensions activated
+[2021-11-30 11:11:39.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-30 11:11:39.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-30 11:11:44.236] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2021-11-30 11:11:46.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-30 11:11:46.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-30 11:26:25.561] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-30 11:26:26.573] [exthost] [info] Extension host with pid 4802 exiting with code 0

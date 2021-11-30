@@ -1,0 +1,80 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP EliteBook 840 G3",
+    "Family": "103C_5336AN HP EliteBook"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "N75 Ver. 01.44"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "78",
+    "Stepping": "3",
+    "Name": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1916"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    256.1
+  ],
+  "Partitions": [
+    47,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx173mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.06"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "Africa/Nairobi",
+  "Install": {
+    "Media": "Ubuntu 20.04.3 LTS \"Focal Fossa\" - Release amd64 (20210819)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "resize_use_free",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "8": "console_setup",
+      "16": "wireless",
+      "23": "prepare",
+      "37": "partman",
+      "40": "partman",
+      "42": "start_install",
+      "56": "timezone",
+      "74": "usersetup",
+      "109": "user_done",
+      "405": "done"
+    }
+  }
+}

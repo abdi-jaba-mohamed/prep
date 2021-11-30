@@ -1,0 +1,6 @@
+2021/11/30-10:39:00.272 3 Reusing MANIFEST /home/abdijabar/.config/google-chrome/Profile 2/Local Storage/leveldb/MANIFEST-000001
+2021/11/30-10:39:00.274 3 Recovering log #7
+2021/11/30-10:39:00.276 3 Reusing old log /home/abdijabar/.config/google-chrome/Profile 2/Local Storage/leveldb/000007.log 
+2021/11/30-11:36:09.263 d Level-0 table #11: started
+2021/11/30-11:36:09.271 d Level-0 table #11: 13671 bytes OK
+2021/11/30-11:36:09.277 d Delete type=0 #7

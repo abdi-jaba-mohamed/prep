@@ -1,0 +1,34 @@
+{
+   "checksum": "1e54fbb25d92a354f7aeaf576726429e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13282132035269439",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13282132035269442",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13282132035269448",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvgBCtcBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJgOoFC3HRBQAhgOoFC3HRBQAiFAm0tPYacdEFABADGQY1Cj3RRHBxMhgKFggCEYfn+Rpx0QUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmA6gULcdEFACGA6gULcdEFADIYChYIAhGH5/kacdEFABgAIQAAAAAAAAAAIAAyH0U5RUx3amQ3ci1NVUFJZVNNS3JnbjhIMFliRml3UllIs7C84NQvcLOwvODULyoOEAAYASAAKAAwADgAQAASACABKhgyampCOU93ZFg5Q1Q0bmwveGgzTG93PT0SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3NmgrOUxZM0gyeUtGazB5VGYrT0IvQXFrRWMwcnU2UlpUSXBFckY4bm5vOU91Rk9KaDhXc05SV005bTR1U1Fjb0tLdEpSRzZSMFJlSnFDZUJPQmxTeVFCbTZMUT09GAAgACgAMLPp2teRrvQCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6aVFkV3lreUppQURsRW0weTQ3bmpGWHhURytBYlRZYkNRZU96ZzVYTjZLRjYwZVZMbHFlblVZRGp4ek9VMUU0TGh4SXYrbnoxSzgzb3ZLeU00blNDMWlNdWxZUT09GAAgACgAMLPp2teRrvQCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp6SGEvZWd3eTJwYnVoTU9Bc2Q1WU1mekJTZU52a0ZUV3VicHg0bXpseXBSNEtSWkVUSVJUcE9mQXdRTi92NE02VUhuRmVIGAAgACgAMLPp2teRrvQCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAgw7m84NQvMAE=",
+   "version": 1
+}
